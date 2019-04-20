@@ -1,0 +1,119 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Kleinegesse on Steven Kleinegesse</title>
+    <link>https://stevenkleinegesse.github.io/</link>
+    <description>Recent content in Steven Kleinegesse on Steven Kleinegesse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2019 19:52:10 +0900</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Recognizing Emotions in Video Using Multimodal DNN Feature Fusion</title>
+      <link>https://stevenkleinegesse.github.io/publication/recognizing-emotions-in-video-using-multimodal-dnn-feature-fusion/</link>
+      <pubDate>Sat, 20 Apr 2019 19:52:10 +0900</pubDate>
+      
+      <guid>https://stevenkleinegesse.github.io/publication/recognizing-emotions-in-video-using-multimodal-dnn-feature-fusion/</guid>
+      <description>
+
+&lt;p&gt;+++
+featured = true&lt;/p&gt;
+
+&lt;p&gt;title = &amp;ldquo;Recognizing Emotions in Video Using Multimodal DNN Feature Fusion&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;date-first-published&#34;&gt;Date first published.&lt;/h1&gt;
+
+&lt;p&gt;date = &amp;ldquo;2018-07&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;authors-comma-separated-list-e-g-bob-smith-david-jones&#34;&gt;Authors. Comma separated list, e.g. &lt;code&gt;[&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;p&gt;authors = [&amp;ldquo;Jennifer Williams&amp;rdquo;, &amp;ldquo;Steven Kleinegesse&amp;rdquo;, &amp;ldquo;Ramona Comanescu&amp;rdquo;, &amp;ldquo;Oana Radu&amp;rdquo;]&lt;/p&gt;
+
+&lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
+
+&lt;h1 id=&#34;legend&#34;&gt;Legend:&lt;/h1&gt;
+
+&lt;h1 id=&#34;0-uncategorized&#34;&gt;0 = Uncategorized&lt;/h1&gt;
+
+&lt;h1 id=&#34;1-conference-proceedings&#34;&gt;1 = Conference proceedings&lt;/h1&gt;
+
+&lt;h1 id=&#34;2-journal&#34;&gt;2 = Journal&lt;/h1&gt;
+
+&lt;h1 id=&#34;3-work-in-progress&#34;&gt;3 = Work in progress&lt;/h1&gt;
+
+&lt;h1 id=&#34;4-technical-report&#34;&gt;4 = Technical report&lt;/h1&gt;
+
+&lt;h1 id=&#34;5-book&#34;&gt;5 = Book&lt;/h1&gt;
+
+&lt;h1 id=&#34;6-book-chapter&#34;&gt;6 = Book chapter&lt;/h1&gt;
+
+&lt;p&gt;publication_types = [&amp;ldquo;1&amp;rdquo;]&lt;/p&gt;
+
+&lt;h1 id=&#34;publication-name-and-optional-abbreviated-version&#34;&gt;Publication name and optional abbreviated version.&lt;/h1&gt;
+
+&lt;p&gt;publication = &amp;ldquo;Proceedings of Grand Challenge and Workshop on Human Multimodal Language (Challenge-HML) at ACL&amp;rdquo;
+publication_short = &amp;ldquo;&lt;em&gt;Workshop on Human Multimodal Language at ACL&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract-and-optional-shortened-version&#34;&gt;Abstract and optional shortened version.&lt;/h1&gt;
+
+&lt;p&gt;abstract = &amp;ldquo;We present our system description of input-level multimodal fusion of audio, video, and text for recognition of emotions and their intensities for the 2018 First Grand Challenge on Computational Modeling of Human Multimodal Language. Our proposed approach is based on input-level feature fusion with sequence learning from Bidirectional Long-Short Term Memory (BLSTM) deep neural networks (DNNs). We show that our fusion approach outperforms unimodal predictors. Our system performs 6-way simultaneous classification and regression, allowing for overlapping emotion labels in a video segment. This leads to an overall binary accuracy of 90%, overall 4-class accuracy of 89.2% and an overall mean-absolute-error (MAE) of 0.12. Our work shows that an early fusion technique can effectively predict the presence of multi-label emotions as well as their coarse-grained intensities. The presented multimodal approach creates a simple and robust baseline on this new Grand Challenge dataset. Furthermore, we provide a detailed analysis of emotion intensity distributions as output from our DNN, as well as a related discussion concerning the inherent difficulty of this task.&amp;rdquo;
+abstract_short = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;featured-image-thumbnail-optional&#34;&gt;Featured image thumbnail (optional)&lt;/h1&gt;
+
+&lt;p&gt;image_preview = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;is-this-a-selected-publication-true-false&#34;&gt;Is this a selected publication? (true/false)&lt;/h1&gt;
+
+&lt;p&gt;selected = true&lt;/p&gt;
+
+&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
+
+&lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
+
+&lt;h1 id=&#34;simply-enter-the-filename-excluding-md-of-your-project-file-in-content-project&#34;&gt;Simply enter the filename (excluding &amp;lsquo;.md&amp;rsquo;) of your project file in &lt;code&gt;content/project/&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;h1 id=&#34;e-g-projects-deep-learning-references-content-project-deep-learning-md&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;deep-learning&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning.md&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;p&gt;projects = []&lt;/p&gt;
+
+&lt;h1 id=&#34;links-optional&#34;&gt;Links (optional).&lt;/h1&gt;
+
+&lt;p&gt;url_pdf = &amp;ldquo;pdf/RecognisingEmotionsDNN.pdf&amp;rdquo;
+url_preprint = &amp;ldquo;&amp;rdquo;
+url_code = &amp;ldquo;&amp;rdquo;
+url_dataset = &amp;ldquo;&amp;rdquo;
+url_project = &amp;ldquo;&amp;rdquo;
+url_slides = &amp;ldquo;&amp;rdquo;
+url_video = &amp;ldquo;&amp;rdquo;
+url_poster = &amp;ldquo;&amp;rdquo;
+url_source = &amp;ldquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;custom-links-optional&#34;&gt;Custom links (optional).&lt;/h1&gt;
+
+&lt;h1 id=&#34;uncomment-line-below-to-enable-for-multiple-links-use-the-form&#34;&gt;Uncomment line below to enable. For multiple links, use the form &lt;code&gt;[{...}, {...}, {...}]&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;h1 id=&#34;url-custom-name-custom-link-url-http-example-org&#34;&gt;url_custom = [{name = &amp;ldquo;Custom Link&amp;rdquo;, url = &amp;ldquo;&lt;a href=&#34;http://example.org&amp;quot;}&#34; target=&#34;_blank&#34;&gt;http://example.org&amp;quot;}&lt;/a&gt;]&lt;/h1&gt;
+
+&lt;h1 id=&#34;does-the-content-use-math-formatting&#34;&gt;Does the content use math formatting?&lt;/h1&gt;
+
+&lt;p&gt;math = true&lt;/p&gt;
+
+&lt;h1 id=&#34;does-the-content-use-source-code-highlighting&#34;&gt;Does the content use source code highlighting?&lt;/h1&gt;
+
+&lt;p&gt;highlight = true&lt;/p&gt;
+
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+
+&lt;h1 id=&#34;place-your-image-in-the-static-img-folder-and-reference-its-filename-below-e-g-image-example-jpg&#34;&gt;Place your image in the &lt;code&gt;static/img/&lt;/code&gt; folder and reference its filename below, e.g. &lt;code&gt;image = &amp;quot;example.jpg&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+
+&lt;p&gt;#[header]
+#image = &amp;ldquo;headers/bubbles-wide.jpg&amp;rdquo;
+#caption = &amp;ldquo;My caption 😄&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;+++&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

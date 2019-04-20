@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Steven Kleinegesse</title>
+    <link>https://stevenkleinegesse.github.io/publication/</link>
+    <description>Recent content in Publications on Steven Kleinegesse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2019 19:52:10 +0900</lastBuildDate>
+    
+	<atom:link href="https://stevenkleinegesse.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recognizing Emotions in Video Using Multimodal DNN Feature Fusion</title>
+      <link>https://stevenkleinegesse.github.io/publication/recognizing-emotions-in-video-using-multimodal-dnn-feature-fusion/</link>
+      <pubDate>Sat, 20 Apr 2019 19:52:10 +0900</pubDate>
+      
+      <guid>https://stevenkleinegesse.github.io/publication/recognizing-emotions-in-video-using-multimodal-dnn-feature-fusion/</guid>
+      <description>+++ featured = true
+title = &amp;ldquo;Recognizing Emotions in Video Using Multimodal DNN Feature Fusion&amp;rdquo;
+Date first published. date = &amp;ldquo;2018-07&amp;rdquo;
+Authors. Comma separated list, e.g. [&amp;quot;Bob Smith&amp;quot;, &amp;quot;David Jones&amp;quot;]. authors = [&amp;ldquo;Jennifer Williams&amp;rdquo;, &amp;ldquo;Steven Kleinegesse&amp;rdquo;, &amp;ldquo;Ramona Comanescu&amp;rdquo;, &amp;ldquo;Oana Radu&amp;rdquo;]
+Publication type. Legend: 0 = Uncategorized 1 = Conference proceedings 2 = Journal 3 = Work in progress 4 = Technical report 5 = Book 6 = Book chapter publication_types = [&amp;ldquo;1&amp;rdquo;]</description>
+    </item>
+    
+  </channel>
+</rss>
